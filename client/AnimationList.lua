@@ -602,9 +602,6 @@ DP.Dances = {
     ["dancehiphop"] = { "anim@amb@nightclub@mini@dance@dance_paired@dance_d@", "ped_a_dance_idle", "Hip Hop Dance ", AnimationOptions = {
         EmoteLoop = true,
     } },
-    ["dancehiphop"] = { "anim@amb@nightclub@mini@dance@dance_paired@dance_d@", "ped_a_dance_idle", "Hip Hop Dance ", AnimationOptions = {
-        EmoteLoop = true,
-    } },
     ["dancehiphop2"] = { "anim@amb@nightclub@mini@dance@dance_paired@dance_b@", "ped_a_dance_idle", "Hip Hop Dance ", AnimationOptions = {
         EmoteLoop = true,
     } },
@@ -3423,13 +3420,6 @@ DP.PropEmotes = {
     } },
     ["cbbox4"]          = { "anim@heists@box_carry@", "idle", "Carry Beer Box 4", AnimationOptions = {
         Prop          = "v_ret_ml_beerlog1",
-        PropBone      = 28422,
-        PropPlacement = { 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 },
-        EmoteLoop     = true,
-        EmoteMoving   = true,
-    } },
-    ["cbbox4"]          = { "anim@heists@box_carry@", "idle", "Carry Beer Box 4", AnimationOptions = {
-        Prop          = "v_ret_ml_beerpat1",
         PropBone      = 28422,
         PropPlacement = { 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 },
         EmoteLoop     = true,
